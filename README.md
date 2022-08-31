@@ -1,6 +1,6 @@
 # Click-n-Brick
 A Property Marketplace App Design project
-* *Utilising the power of students* *
+*Utilising the power of students*
 
 ## OVERVIEW
 
@@ -13,11 +13,11 @@ The client’s brief had 3 key deliverables:
 - Design a seamless mobile app user experience for somebody looking to buy a property in the UK
 - Produce a UI Design System, including three logo options.
 
-###Problem statement
+### Problem statement
 
-*“How could we design a property marketplace app prototype that could compete in an already competitive market?”*
+“How could we design a property marketplace app prototype that could compete in an already competitive market?”
 
-###Users & Audience 
+### Users & Audience 
 
 The user of the product is prospective property buyers in the UK.
 
