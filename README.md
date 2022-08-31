@@ -20,30 +20,31 @@ The client’s brief had 3 key deliverables:
 
 _“How could we design a property marketplace app prototype that could compete in an already competitive market?”_
 
-### Team Roles & Responsibilities
+### Project management
 
-Team size: 7
-Tools: Slack, Google meets, Miro, Trello, Figma
+* **Team size**: 7
+* **Tools**: Slack, Google meets, Miro, Trello, Figma, Pen & Paper
+* **Decision making**: Dot voting
+* **communication**: Daily stand-ups & retros, slack, google meets, trello
+
+### The Team Roles
 
 With experience in leadership, I became team lead and managed the project - keeping it on track throughout.
 
-The whole team worked together to research, understand and define the problem.
+The whole team worked together to research, empathise and define the problem.
 
 Accounting for skillsets & time restraints, to ideate and prototype we decided to branch off into 2 teams - Functionality (UX) and design (UI).
 
-Daily standups and retros enabled our teams to remain close-knit and work towards the same goal throughout.
-
-The Functionality team: looked at the user journey, wireframing, layout, application architecture and prototyping.
-
-The Design team focused on the UI design phases - looking at Colour Schemes, Typography, Icons and Logos.
+* **The Functionality team**: looked at the user journey, wireframing, layout, application architecture and prototyping.
+* **The Design team**: focused on the UI design phases - looking at Colour Schemes, Typography, Icons and Logos.
 
 ### Scope & Constraints
 
 Being a course project, there were a few constraints:
 
-- **Budget**: there was no set budget for this project
-- **A fictitious project brief**: we had to make light of this and produce a project in the most realistic way possible
-- **Time**: We had a total of 8 weeks to finish and present the project
+- **Budget**: there was no set budget for this project.
+- **A fictitious project brief**: we had to make light of this and produce a project in the most realistic way possible.
+- **Time**: We had a total of 8 weeks to finish and present the project.
 - **Skillset**: As students, we all came from different backgrounds, but had a wide range of skillsets to offer.
 - **Working remotely**: We worked remotely and adapted quickly.
 
@@ -51,7 +52,7 @@ Being a course project, there were a few constraints:
 
 ### Market Research: Overview
 
-With the brief analysed, it was time to gain a better understanding of the product and its users. To achieve this, we performed a series of primary and secondary research methods.
+With the brief analysed, it was time to gain a better understanding of the product and its users. To achieve this, we carried out primary and secondary research.
 
 ### Primary Research
 
@@ -59,13 +60,9 @@ With the brief analysed, it was time to gain a better understanding of the produ
 
 We prepared an online survey with a total of 36 respondents to determine the interest in using an online property marketplace to buy properties and understand what features make them desirable.
 
-IMAGE WITH RESULTS??
-
 #### Focus Group
 
 We also carried out a focus group with 5 participants for an open-ended opinion of current property marketplace apps and their viability for buying property and booking viewings.
-
-IMAGE WITH RESULTS??
 
 ### Secondary Research
 
@@ -74,11 +71,11 @@ IMAGE WITH RESULTS??
 We analysed our competitors to get an insight into the service and features they offered.
 Firstly, we downloaded and browsed the competitor apps. Next, we took screenshots of their golden path along with any relevant features and pasted them onto miro. Then, we reviewed each competitor as a team, making notes of their product’s Pros & Cons.
 
-‘Experiencing what the market leaders offered inspired many of our functionality and design decisions later on.‘
+_‘Experiencing what the market leaders offered inspired many of our functionality and design decisions later on.‘_
 
 Some key competitors include: Right Move, Zoopla, Purple Bricks, On the Market, Prime Location & Redfin.
 
-(LOGO IMAGE)
+![Competitor Logo Image](/Images/CompetitorLogos.png)
 
 #### Market Reports
 
