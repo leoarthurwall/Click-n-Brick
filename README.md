@@ -124,7 +124,7 @@ IMAGE OF USER JOURNEY MAP
 ### User Research Presentation
 We then presented our Research to the course leader. This marked the end of our research phase.
 
-## Ideation, Prototyping & Testing
+## IDEATION, PROTORYPING & TESTING
 
 ### Design Sprint 1
 
