@@ -130,7 +130,13 @@ For sprint 1, we branched off into 2 teams; Functionality & Design. Given our 8-
 
 Using the problems uncovered from research findings, we constructed ‘How Might We’ questions to frame the problems for ideation.
 
-HMW - create a unique funtionality, yet be simple to use at the same time?
+>_**HMW - create a unique funtionality, yet be simple to use at the same time?**_
+
+>_**HMW - create an app that is more desirable than going directly to an estate agent?**_
+
+>_**HMW - design simething that stands out in the current market?**_
+
+
 
 #### Define the golden path
 
