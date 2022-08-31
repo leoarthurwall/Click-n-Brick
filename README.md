@@ -130,41 +130,41 @@ We then presented our Research to the course leader. This marked the end of our 
 
 For sprint 1, we branched off into 2 teams; Functionality & Design. Given our 8-week project limit, we decided it would be the most time effective to address both areas simultaneously.
 
-### Sprint 1 - Functionality (UX)
+## Sprint 1 - Functionality (UX)
 
 **Sprint Goal**: Design and test a Lo-Fi Prototype of the app
 
-#### Our Process
+### Our Process:
 
-##### How Might We
+#### How Might We
 Using the problems uncovered from research findings, we constructed ‘How Might We’ questions to frame the problems for ideation.
 IMAGE
 
 
-##### Define the golden path
+#### Define the golden path
 Having already developed user journey maps during the competitor analysis, we used them for inspiration when developing our golden path. Our objective was to design a golden path that enabled the user to enter, search, filter, view and contact the agent in an efficient and user-friendly manner. 
 IMAGE 
 
-##### Information Architecture
+#### Information Architecture
 Now that the golden path was defined, we had a group brainstorm on miro to help develop the secondary user pathways. Putting our ideas together, we developed a high-level version of our app’s Information Architecture. This provided a visual aid for how each screen interacts with one another.
 IMAGE
 
-##### Crazy 8’s
+#### Crazy 8’s
 Firstly, we reviewed the competitor user journeys for pre-exercise inspiration. Then, for each step of the golden path, we did a crazy 8’s sketching exercise to get ideas flowing for the layout of each screen. 
 IMAGE
 
-##### Lo-fi Wireframe (sketch)
+#### Lo-fi Wireframe (sketch)
 Using the Crazy 8 sketches as inspiration, we combined our favourite elements and sketched a more polished wireframe version for each stage of the user journey. As we were doing well for time, we also sketched out the secondary pathway screens. 
 IMAGE
 
-##### Lo-fi Wireframe (Digital)
+#### Lo-fi Wireframe (Digital)
 Next, we digitalised the sketched wireframes using Figma. This gave us something more presentable for user testing.
 
-##### User Testing
+#### User Testing
 Now our lo-fi prototype was ready for testing. We carried out 2 separate usability tests simultaneously. We asked a series of guided questions and noted the feedback. Using the feedback gathered, we could continue to develop our project in the following sprint.
 FEEDBACK & QUESTION IMAGE
 
-#### Reviewing the feedback of sprint #1
+### Reviewing the feedback of sprint #1
 
 The usability testing feedback from sprint #1 gave us plenty of fuel for our backlog. We divided the tasks between the team and worked through them systematically. 
 
@@ -177,37 +177,38 @@ The usability testing feedback from sprint #1 gave us plenty of fuel for our bac
 * Improving the header & footer navigation bar design and functionality (IMAGE)
   * Menu options on the footer = 1 click instead of 2, a better position for natural thumb use.
 
-### Sprint 1 - Design (UI)
+## Sprint 1 - Design (UI)
 
 **Sprint Goal** - Produce UI design scheme
 
-#### Our Process
+### Our Process
 
-##### How Might We
+#### How Might We
 We used our primary and secondary research to formulate some ‘how might we’ questions regarding the design which would guide us through this design sprint.
 
-##### Colour Selection
+#### Colour Selection
 Using other app and sites as inspiration, we brainstormed possible colour choices and researched colour psychology within design.
 
 We chose the colour green to base our colour palette around because of its connotations of a fresh start, life, cleanliness and the ecosystem. We used lime green as our accent colour to guide the user from the start to the end of the golden path and grey, green and black/green as our primary and secondary colour blends.
 
-##### Logo Selection
+#### Logo Selection
 For the logo, we wanted something clean and fresh to attract the attention of the user, whilst also denoting safety and trust. 
 
 Logo development started with the idea to merge images that represented both ‘click’ & ‘brick’. 
 After creating several logo ideas each, we received feedback from the functionality team and then decided on the following logo design.
 
-##### Typography
+#### Typography
 For our font, we chose Lato as research showed it as friendly and easy to read. These values align very well with the app we are designing.
 
-##### Icon Kit
+#### Icon Kit
 
 We developed our own icon kit from various available online icon packs. We edited the icons where needed to make them consistent in design. 
-##### Buttons
+
+#### Buttons
 We designed a range of buttons with varying functions and hierarchies. 
 
-##### Dark mode
+#### Dark mode
 With accessibility being an important design consideration, we designed a dark mode colour scheme and functionality. We chose desaturated colours which meet the Web Content Accessibility Guidelines.
 
-##### UI Design Kit
+#### UI Design Kit
 And here is the final UI kit.  IMAGE
