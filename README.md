@@ -100,18 +100,15 @@ Our findings made it clear that we should develop an app that provides prospecti
 
 ### User Personas
 
-Based on the findings from the research, we created 3 personas that represented our user base. We referred to them throughout the product design process to account for accessibility & inclusivity.
+Based on the findings from the research, we created user personas that represented our user base. We referred to them throughout the product design process to account for accessibility & inclusivity.
 
-This enabled us to account for a wide range of demographics, and how we could accommodate them when designing the app.
+This enabled us to account for a wide range of demographics, and consider how we could accommodate them when designing the app.
 
-
-IMAGE OF USER PERSONAS
+![Competitor Logo Image](/Images/UserPersona.png)
 
 ### User Journey Maps
 
-To understand how our user would interact with the service, we created a User Journey Map. Below is the User Journey Map for …
-
-IMAGE OF USER JOURNEY MAP
+To understand how our user would interact with the service, we created a User Journey Map. 
 
 ### User Research Presentation
 
@@ -132,7 +129,8 @@ For sprint 1, we branched off into 2 teams; Functionality & Design. Given our 8-
 #### How Might We
 
 Using the problems uncovered from research findings, we constructed ‘How Might We’ questions to frame the problems for ideation.
-IMAGE
+
+HMW - create a unique funtionality, yet be simple to use at the same time?
 
 #### Define the golden path
 
