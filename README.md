@@ -8,7 +8,7 @@ _A Property Marketplace App Design project_
 
 The **Click’n’Brick** Property Marketplace App is a platform designed to make buying property online the go-to choice for any and all prospective buyers within the UK.
 
-## Project Brief
+### Project Brief
 
 The client’s brief had 3 key deliverables:
 
@@ -18,15 +18,7 @@ The client’s brief had 3 key deliverables:
 
 ### Problem statement
 
-“How could we design a property marketplace app prototype that could compete in an already competitive market?”
-
-### Users & Audience
-
-The user of the product is prospective property buyers in the UK.
-
-To help us develop the accessibility and inclusivity of the app, we considered a number of user personas, each with unique requirements.
-
-This enabled us to account for a wide range of demographics, and how we could accommodate them when designing the app.
+_“How could we design a property marketplace app prototype that could compete in an already competitive market?”_
 
 ### Team Roles & Responsibilities
 
@@ -108,9 +100,13 @@ Through the Primary and secondary research it was clear that users looking to bu
 
 Our findings made it clear that we should develop an app that provides prospective property buyers with an easy-to-use, comprehensive and trustworthy property search experience and bridge the gap between the agent and buyer.
 
+
 ### User Personas
 
-Based on the findings from the research, we created 3 personas that represented our user base. We referred to them throughout the product design process to account for inclusivity.
+Based on the findings from the research, we created 3 personas that represented our user base. We referred to them throughout the product design process to account for accessibility & inclusivity.
+
+This enabled us to account for a wide range of demographics, and how we could accommodate them when designing the app.
+
 
 IMAGE OF USER PERSONAS
 
