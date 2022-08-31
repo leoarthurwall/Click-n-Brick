@@ -212,3 +212,48 @@ With accessibility being an important design consideration, we designed a dark m
 
 #### UI Design Kit
 And here is the final UI kit.  IMAGE
+
+## Sprint 2 - 
+**_Collaborate as one team, combine work, and produce a hi-fi prototype.**_
+
+**Sprint Goal**: Design a hi-fi working prototype on Figma
+
+### Our Process:
+
+#### Apply feedback-related changes
+The feedback from user testing of sprint 1 provided us with a backlog of agreed design and functionality changes to work through. 
+
+With the golden path the priority, changes were applied to these wireframe screens first. Once complete, we worked through the secondary pathway screen changes.
+
+#### Apply the UI scheme to the lo-fi wireframes
+
+The design team then applied the UI scheme to the Figma wireframe following the same order: 1. Golden path, 2. Secondary Pathways
+
+#### Make a working prototype on Figma
+Meanwhile, the functionality team worked on making the wireframes an interactive prototype on figma.
+
+#### Consistency checks
+Once the prototype was working, we worked as a team to test:
+* Design and layout consistency between all wireframe screens.
+* All user flows were working as intended.
+
+### Usability Testing 
+With our working prototype ready, we prepared and carried out a Usability Test on 6 individual participants. They performed a series of tasks while we took notes.
+
+This helped us understand how the user interacted with the app and gain feedback for future iterations.
+
+#### Some key findings include: GIVE 
+* Less prominent delete account button
+* Accessibility options should be reachable on the landing page
+* Use of language - e.g. Change ‘browse’ to ‘search’ - a more deliberate action
+*Tweaks to button layout and hierarchy 
+*Interactive map (default & Satellite view icon to be clearer)
+
+### Apply feedback-related changes
+With the project nearing its end, we applied the changes that time permitted. Any remaining changes would be made in possible future iterations.
+
+
+
+
+
+
