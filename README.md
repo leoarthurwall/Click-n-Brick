@@ -8,12 +8,12 @@ _A Property Marketplace App Design project_
 
 The **Click’n’Brick** Property Marketplace App is a platform designed to make buying property online the go-to choice for any and all prospective buyers within the UK.
 
-Our primary goal was to produce a high-fidelity, working mobile app prototype on Figma. This was in response to the client’s brief and subsequent discussions with them.
+## Project Brief
 
 The client’s brief had 3 key deliverables:
 
-- Produce a high-fidelity, working prototype app on Figma
-- Design a seamless mobile app user experience for somebody looking to buy a property in the UK
+- Produce a high-fidelity, working prototype app on Figma.
+- Design a seamless mobile app user experience for somebody looking to buy a property in the UK.
 - Produce a UI Design System, including three logo options.
 
 ### Problem statement
