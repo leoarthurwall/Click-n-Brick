@@ -2,7 +2,7 @@
 A Property Marketplace App Design project
 * *Utilising the power of students* *
 
-##OVERVIEW
+## OVERVIEW
 
 The **Click’n’Brick** Property Marketplace App is a platform designed to make buying property online the go-to choice for any and all prospective buyers within the UK.
 
@@ -15,7 +15,7 @@ The client’s brief had 3 key deliverables:
 
 ###Problem statement
 
-* *“How could we design a property marketplace app prototype that could compete in an already competitive market?”* *
+*“How could we design a property marketplace app prototype that could compete in an already competitive market?”*
 
 ###Users & Audience 
 
@@ -25,7 +25,7 @@ To help us develop the accessibility and inclusivity of the app, we considered a
 
 This enabled us to account for a wide range of demographics, and how we could accommodate them when designing the app.
 
-###Roles & Responsibilities 
+### Roles & Responsibilities 
 
 Team size: 7
 Tools: Slack, Google meets, Miro, Trello, Figma
@@ -42,16 +42,16 @@ The Functionality team: looked at the user journey,  wireframing, layout, applic
 
 The Design team focused on the UI design phases - looking at Colour Schemes, Typography, Icons and Logos.
 
-###Scope & Constraints
+### Scope & Constraints
 
 Being a course project, there were a few constraints:
 
-- Budget: there was no set budget for this project
-- A fictitious project brief: we had to make light of this and produce a project in the most realistic way possible
-- Time: We had a total of 8 weeks to finish and present the project
-- Skillset: As students, we all came from different backgrounds, but had a wide range of skillsets to offer.
-- Working remotely: We worked remotely and adapted quickly. 
+* Budget: there was no set budget for this project
+* A fictitious project brief: we had to make light of this and produce a project in the most realistic way possible
+* Time: We had a total of 8 weeks to finish and present the project
+* Skillset: As students, we all came from different backgrounds, but had a wide range of skillsets to offer.
+* Working remotely: We worked remotely and adapted quickly. 
 
 
-##OUR PROCESS
+## OUR PROCESS
 
