@@ -1,8 +1,7 @@
 # Click-n-Brick
 
-A Property Marketplace App Design project
-
-_Utilising the power of students_
+_A Property Marketplace App Design project
+_
 
 ![Cover Image](/images/CoverImage.png)
 
