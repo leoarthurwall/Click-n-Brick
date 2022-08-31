@@ -124,3 +124,57 @@ IMAGE OF USER JOURNEY MAP
 ### User Research Presentation
 We then presented our Research to the course leader. This marked the end of our research phase.
 
+## Ideation, Prototyping & Testing
+
+### Design Sprint 1
+
+For sprint 1, we branched off into 2 teams; Functionality & Design. Given our 8-week project limit, we decided it would be the most time effective to address both areas simultaneously.
+
+### Sprint 1 - Functionality (UX)
+
+**Goal**: Design and test a Lo-Fi Prototype of the app
+
+#### Our Process
+
+##### How Might We
+Using the problems uncovered from research findings, we constructed ‘How Might We’ questions to frame the problems for ideation.
+IMAGE
+
+
+##### Define the golden path
+Having already developed user journey maps during the competitor analysis, we used them for inspiration when developing our golden path. Our objective was to design a golden path that enabled the user to enter, search, filter, view and contact the agent in an efficient and user-friendly manner. 
+IMAGE 
+
+##### Information Architecture
+Now that the golden path was defined, we had a group brainstorm on miro to help develop the secondary user pathways. Putting our ideas together, we developed a high-level version of our app’s Information Architecture. This provided a visual aid for how each screen interacts with one another.
+IMAGE
+
+##### Crazy 8’s
+Firstly, we reviewed the competitor user journeys for pre-exercise inspiration. Then, for each step of the golden path, we did a crazy 8’s sketching exercise to get ideas flowing for the layout of each screen. 
+IMAGE
+
+##### Lo-fi Wireframe (sketch)
+Using the Crazy 8 sketches as inspiration, we combined our favourite elements and sketched a more polished wireframe version for each stage of the user journey. As we were doing well for time, we also sketched out the secondary pathway screens. 
+IMAGE
+
+##### Lo-fi Wireframe (Digital)
+Next, we digitalised the sketched wireframes using Figma. This gave us something more presentable for user testing.
+
+##### User Testing
+Now our lo-fi prototype was ready for testing. We carried out 2 separate usability tests simultaneously. We asked a series of guided questions and noted the feedback. Using the feedback gathered, we could continue to develop our project in the following sprint.
+FEEDBACK & QUESTION IMAGE
+
+#### Reviewing the feedback of sprint #1
+
+The usability testing feedback from sprint #1 gave us plenty of fuel for our backlog. We divided the tasks between the team and worked through them systematically. 
+
+3 key user-centric iterations to the golden path included:
+
+* Adding the filters screen to the golden path, rather than a secondary screen.
+*   Some users felt confused with performing a search without the option of applying filters
+* Adding a third call to action on the property information page ‘book a viewing.
+*   Users expressed they would like to arrange a booking without needing to contact the agent first.
+* Improving the header & footer navigation bar design and functionality (IMAGE)
+*   Menu options on the footer = 1 click instead of 2, better position for natural thumb use.
+
+
