@@ -3,6 +3,8 @@ A Property Marketplace App Design project
 
 *Utilising the power of students*
 
+![Cover Image]( ./images/CoverImage.png| width=500)
+
 ## OVERVIEW
 
 The **Click’n’Brick** Property Marketplace App is a platform designed to make buying property online the go-to choice for any and all prospective buyers within the UK.
