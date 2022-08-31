@@ -237,22 +237,45 @@ Once the prototype was working, we worked as a team to test:
 * Design and layout consistency between all wireframe screens.
 * All user flows were working as intended.
 
-### Usability Testing 
+#### Usability Testing 
 With our working prototype ready, we prepared and carried out a Usability Test on 6 individual participants. They performed a series of tasks while we took notes.
 
 This helped us understand how the user interacted with the app and gain feedback for future iterations.
 
-#### Some key findings include: GIVE 
+**Some key findings include**:  
 * Less prominent delete account button
 * Accessibility options should be reachable on the landing page
 * Use of language - e.g. Change ‘browse’ to ‘search’ - a more deliberate action
 *Tweaks to button layout and hierarchy 
 *Interactive map (default & Satellite view icon to be clearer)
 
-### Apply feedback-related changes
+#### Apply feedback-related changes
 With the project nearing its end, we applied the changes that time permitted. Any remaining changes would be made in possible future iterations.
 
+## Conclusion
 
+### Project Outcomes
+We had successfully achieved our project goal within the 8-week timeframe - produce a high-fidelity prototype, whilst meeting the needs of the client. 
+
+This was made possible by our teamwork, organisation and adaptability throughout the project. We embraced the user-centric approach and based our design decisions on user research and feedback.
+
+On an individual level, I am pleased with my lead role in the team. My planning, organisation and leadership gave the team direction and unity, whilst ensuring we achieved our project goal within the timeframe.
+
+### Lessons learned 
+
+Some key lessons I’ve learned are:
+*Design decisions should be based on what the user needs NOT what the designer likes.
+*Teamwork is the key to success - Each team member brings something valuable to the table. Find out what and utilise it.
+*User testing offers incredibly useful feedback for further iterations.
+
+
+### Final words
+
+Thank you for taking the time to view this case study. 
+
+Being my first design project, there are undoubtedly areas of the process which can be improved. However, I started this project at ground zero and finished it with a sound understanding of the design thinking process with skills and experience to match. 
+
+I’m looking forward to future opportunities where I can apply what I now know while continuing to learn and develop.
 
 
 
