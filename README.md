@@ -1,7 +1,6 @@
 # Click-n-Brick
 
-_A Property Marketplace App Design project
-_
+_A Property Marketplace App Design project_
 
 ![Cover Image](/images/CoverImage.png)
 
