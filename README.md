@@ -47,11 +47,11 @@ The Design team focused on the UI design phases - looking at Colour Schemes, Typ
 
 Being a course project, there were a few constraints:
 
-* *Budget*: there was no set budget for this project
-* *A fictitious project brief*: we had to make light of this and produce a project in the most realistic way possible
-* *Time*: We had a total of 8 weeks to finish and present the project
-* *Skillset*: As students, we all came from different backgrounds, but had a wide range of skillsets to offer.
-* *Working remotely*: We worked remotely and adapted quickly. 
+* **Budget**: there was no set budget for this project
+* **A fictitious project brief**: we had to make light of this and produce a project in the most realistic way possible
+* **Time**: We had a total of 8 weeks to finish and present the project
+* **Skillset**: As students, we all came from different backgrounds, but had a wide range of skillsets to offer.
+* **Working remotely**: We worked remotely and adapted quickly. 
 
 
 ## OUR PROCESS
