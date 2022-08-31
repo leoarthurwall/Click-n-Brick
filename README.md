@@ -132,7 +132,7 @@ For sprint 1, we branched off into 2 teams; Functionality & Design. Given our 8-
 
 ### Sprint 1 - Functionality (UX)
 
-**Goal**: Design and test a Lo-Fi Prototype of the app
+**Sprint Goal**: Design and test a Lo-Fi Prototype of the app
 
 #### Our Process
 
@@ -177,4 +177,37 @@ The usability testing feedback from sprint #1 gave us plenty of fuel for our bac
 * Improving the header & footer navigation bar design and functionality (IMAGE)
   * Menu options on the footer = 1 click instead of 2, a better position for natural thumb use.
 
+### Sprint 1 - Design (UI)
 
+**Sprint Goal** - Produce UI design scheme
+
+#### Our Process
+
+##### How Might We
+We used our primary and secondary research to formulate some ‘how might we’ questions regarding the design which would guide us through this design sprint.
+
+##### Colour Selection
+Using other app and sites as inspiration, we brainstormed possible colour choices and researched colour psychology within design.
+
+We chose the colour green to base our colour palette around because of its connotations of a fresh start, life, cleanliness and the ecosystem. We used lime green as our accent colour to guide the user from the start to the end of the golden path and grey, green and black/green as our primary and secondary colour blends.
+
+##### Logo Selection
+For the logo, we wanted something clean and fresh to attract the attention of the user, whilst also denoting safety and trust. 
+
+Logo development started with the idea to merge images that represented both ‘click’ & ‘brick’. 
+After creating several logo ideas each, we received feedback from the functionality team and then decided on the following logo design.
+
+##### Typography
+For our font, we chose Lato as research showed it as friendly and easy to read. These values align very well with the app we are designing.
+
+##### Icon Kit
+
+We developed our own icon kit from various available online icon packs. We edited the icons where needed to make them consistent in design. 
+##### Buttons
+We designed a range of buttons with varying functions and hierarchies. 
+
+##### Dark mode
+With accessibility being an important design consideration, we designed a dark mode colour scheme and functionality. We chose desaturated colours which meet the Web Content Accessibility Guidelines.
+
+##### UI Design Kit
+And here is the final UI kit.  IMAGE
