@@ -175,6 +175,6 @@ The usability testing feedback from sprint #1 gave us plenty of fuel for our bac
 * Adding a third call to action on the property information page ‘book a viewing.
   * Users expressed they would like to arrange a booking without needing to contact the agent first.
 * Improving the header & footer navigation bar design and functionality (IMAGE)
-  * Menu options on the footer = 1 click instead of 2, better position for natural thumb use.
+  * Menu options on the footer = 1 click instead of 2, a better position for natural thumb use.
 
 
