@@ -122,7 +122,7 @@ IMAGE
 
 Now that the golden path was defined, we had a group brainstorm on miro to help develop the secondary user pathways. Putting our ideas together, we developed a high-level version of our app’s Information Architecture. This provided a visual aid for how each screen interacts with one another.
 
-![Information Architecture Image](/images/InformationMap.png)
+![Information Architecture Image](/images/InformationArchitecture.png)
 
 #### Crazy 8’s
 
