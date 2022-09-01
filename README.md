@@ -8,45 +8,20 @@ _A Property Marketplace App Design project_
 
 The **Click’n’Brick** Property Marketplace App is a platform designed to make buying property online the go-to choice for any and all prospective buyers within the UK.
 
-### Project Brief
+### Challenge
 
-The client’s brief had 3 key deliverables:
+_“How might we design a working prototype of a UK property marketplace app that could compete in an already competitive market?”_
 
-- Produce a high-fidelity, working prototype app on Figma.
-- Design a seamless mobile app user experience for somebody looking to buy a property in the UK.
-- Produce a UI Design System, including three logo options.
-
-### Problem statement
-
-_“How could we design a property marketplace app prototype that could compete in an already competitive market?”_
-
-### Project management
-
+### Project Scope
+* **Timeline**: 8 weeks
 * **Team size**: 7
+* **My Role**: UX/UI Designer, project manager
+* **Team Roles**: UX/UI Designers
 * **Tools**: Slack, Google meets, Miro, Trello, Figma, Pen & Paper
 * **Decision making**: Dot voting
 * **communication**: Daily stand-ups & retros, slack, google meets, trello
-
-### The Team Roles
-
-With experience in leadership, I became team lead and managed the project - keeping it on track throughout.
-
-The whole team worked together to research, empathise and define the problem.
-
-Accounting for skillsets & time restraints, to ideate and prototype we decided to branch off into 2 teams - Functionality (UX) and design (UI).
-
-* **The Functionality team**: looked at the user journey, wireframing, layout, application architecture and prototyping.
-* **The Design team**: focused on the UI design phases - looking at Colour Schemes, Typography, Icons and Logos.
-
-### Scope & Constraints
-
-Being a course project, there were a few constraints:
-
-- **Budget**: there was no set budget for this project.
-- **A fictitious project brief**: we had to make light of this and produce a project in the most realistic way possible.
-- **Time**: We had a total of 8 weeks to finish and present the project.
-- **Skillset**: As students, we all came from different backgrounds, but had a wide range of skillsets to offer.
-- **Working remotely**: We worked remotely and adapted quickly.
+* **Budget**: n/a
+* **work type**: remote
 
 ## RESEARCH & EMPATHISE
 
