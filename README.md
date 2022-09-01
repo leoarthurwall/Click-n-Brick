@@ -116,7 +116,6 @@ Using the problems uncovered from research findings, we constructed ‘How Might
 #### Define the golden path
 
 Having already developed user journey maps during the competitor analysis, we used them for inspiration when developing our golden path. Our objective was to design a golden path that enabled the user to enter, search, filter, view and contact the agent in an efficient and user-friendly manner.
-IMAGE
 
 #### Information Architecture
 
@@ -133,7 +132,6 @@ Firstly, we reviewed the competitor user journeys for pre-exercise inspiration. 
 #### Lo-fi Wireframe (sketch)
 
 Using the Crazy 8 sketches as inspiration, we combined our favourite elements and sketched a more polished wireframe version for each stage of the user journey. As we were doing well for time, we also sketched out the secondary pathway screens.
-IMAGE
 
 #### Lo-fi Wireframe (Digital)
 
@@ -157,8 +155,8 @@ The usability testing feedback from sprint #1 gave us plenty of fuel for our bac
   - Some users felt confused with performing a search without the option of applying filters
 - Adding a third call to action on the property information page ‘book a viewing.
   - Users expressed they would like to arrange a booking without needing to contact the agent first.
-- Improving the header & footer navigation bar design and functionality (IMAGE)
-  - Menu options on the footer = 1 click instead of 2, a better position for natural thumb use.
+- Improving the header & footer navigation bar design and functionality 
+  - All menu options on the footer can be on show. Meaning 1 click instead of 2. Also a better position for natural thumb use.
 
 ## Sprint 1 - Design (UI)
 
