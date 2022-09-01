@@ -155,8 +155,8 @@ The usability testing feedback from sprint #1 gave us plenty of fuel for our bac
   - Some users felt confused with performing a search without the option of applying filters
 - Adding a third call to action on the property information page ‘book a viewing.
   - Users expressed they would like to arrange a booking without needing to contact the agent first.
-- Improving the header & footer navigation bar design and functionality (IMAGE)
-  - Menu options on the footer = 1 click instead of 2, a better position for natural thumb use.
+- Improving the header & footer navigation bar design and functionality 
+  - All menu options on the footer can be on show. Meaning 1 click instead of 2. Also a better position for natural thumb use.
 
 ## Sprint 1 - Design (UI)
 
