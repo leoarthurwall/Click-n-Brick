@@ -162,12 +162,6 @@ The usability testing feedback from sprint #1 gave us plenty of fuel for our bac
 
 **Sprint Goal** - Produce UI design scheme
 
-### Our Process
-
-#### How Might We
-
-We used our primary and secondary research to formulate some ‘how might we’ questions regarding the design which would guide us through this design sprint.
-
 #### Colour Selection
 
 Using other app and sites as inspiration, we brainstormed possible colour choices and researched colour psychology within design.
