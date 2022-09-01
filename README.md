@@ -201,7 +201,9 @@ With accessibility being an important design consideration, we designed a dark m
 
 #### UI Design Kit
 
-And here is the final UI kit. IMAGE
+And here is the final UI kit. 
+
+![UI Kit](/images/UIKit.png)
 
 ## Sprint 2 -
 
