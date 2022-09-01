@@ -104,7 +104,7 @@ Based on the findings from the research, we created user personas that represent
 
 This enabled us to account for a wide range of demographics, and consider how we could accommodate them when designing the app.
 
-![Uers Persona Image](/Images/UserPersona.png)
+![User Persona Image](/Images/UserPersona.png)
 
 ### User Journey Maps
 
