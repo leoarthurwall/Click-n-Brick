@@ -215,15 +215,17 @@ The feedback from user testing of sprint 1 provided us with a backlog of agreed 
 
 With the golden path the priority, changes were applied to these wireframe screens first. Once complete, we worked through the secondary pathway screen changes.
 
-#### Apply the UI scheme to the lo-fi wireframes
-
-The design team then applied the UI scheme to the Figma wireframe following the same order: 1. Golden path, 2. Secondary Pathways
-
-![Figma Iterations Image](/images/FigmaIterations.png)
-
 #### Make a working prototype on Figma
 
-Meanwhile, the functionality team worked on making the wireframes an interactive prototype on figma.
+The functionality team worked on making the wireframes an interactive prototype on figma. Here's an image of our first working prototype iteration on figma.
+
+![Figma Prototype Image](/images/FigmaPrototype.png)
+
+#### Apply the UI scheme to the lo-fi wireframes
+
+The design team then applied the UI scheme to the Figma wireframe. Here is a shot of our three figma design iterations of the search screen: 
+
+![Figma Iterations Image](/images/FigmaIterations.png)
 
 #### Consistency checks
 
