@@ -10,24 +10,21 @@ The **Click’n’Brick** Property Marketplace App is a platform designed to mak
 
 ### Challenge
 
-_“How might we design a working prototype of a UK property marketplace app that could compete in an already competitive market?”_
+_“How might we design a working prototype of a UK property marketplace app that is accessible for everybody?”_
 
 ### Project Scope
 * **Timeline**: 8 weeks
 * **Team size**: 7
-* **My Role**: UX/UI Designer, project manager
 * **Team Roles**: UX/UI Designers
+* **My Role**: User research, focus groups, persona devlopment, user journey mapping, app architecture, UI design & layour, prototyping, user testing, project management.
 * **Tools**: Slack, Google meets, Miro, Trello, Figma, Pen & Paper
 * **Decision making**: Dot voting
 * **communication**: Daily stand-ups & retros, slack, google meets, trello
 * **Budget**: n/a
 * **work type**: remote
 
-## RESEARCH & EMPATHISE
 
-### Market Research: Overview
-
-With the brief analysed, it was time to gain a better understanding of the product and its users. To achieve this, we carried out primary and secondary research.
+## RESEARCH
 
 ### Primary Research
 
@@ -46,9 +43,9 @@ We also carried out a focus group with 5 participants for an open-ended opinion 
 We analysed our competitors to get an insight into the service and features they offered.
 Firstly, we downloaded and browsed the competitor apps. Next, we took screenshots of their golden path along with any relevant features and pasted them onto miro. Then, we reviewed each competitor as a team, making notes of their product’s Pros & Cons.
 
-_‘Experiencing what the market leaders offered inspired many of our functionality and design decisions later on.‘_
+> _‘Experiencing what the market leaders offered inspired many of our functionality and design decisions later on.‘_
 
-Some key competitors include: Right Move, Zoopla, Purple Bricks, On the Market, Prime Location & Redfin.
+Some key competitors include:
 
 ![Competitor Logo Image](/images/CompetitorLogos.png)
 
@@ -72,6 +69,7 @@ Through the Primary and secondary research it was clear that users looking to bu
 
 Our findings made it clear that we should develop an app that provides prospective property buyers with an easy-to-use, comprehensive and trustworthy property search experience and bridge the gap between the agent and buyer.
 
+## PERSONAS & JOURNEY MAPS
 
 ### User Personas
 
@@ -83,7 +81,9 @@ This enabled us to account for a wide range of demographics, and consider how we
 
 ### User Journey Maps
 
-To understand how our user would interact with the service, we created a User Journey Map. 
+To understand how our user would interact with the application, we created a User Journey Map for the personas we created
+
+![User Journey Map Image](/images/UserJourneyMap.png)
 
 ### User Research Presentation
 
