@@ -75,7 +75,7 @@ _‘Experiencing what the market leaders offered inspired many of our functional
 
 Some key competitors include: Right Move, Zoopla, Purple Bricks, On the Market, Prime Location & Redfin.
 
-![Competitor Logo Image](/Images/CompetitorLogos.png)
+![Competitor Logo Image](/images/CompetitorLogos.png)
 
 #### Market Reports
 
@@ -104,7 +104,7 @@ Based on the findings from the research, we created user personas that represent
 
 This enabled us to account for a wide range of demographics, and consider how we could accommodate them when designing the app.
 
-![User Persona Image](/Images/UserPersona.png)
+![User Persona Image](/images/UserPersona.png)
 
 ### User Journey Maps
 
@@ -147,13 +147,13 @@ IMAGE
 
 Now that the golden path was defined, we had a group brainstorm on miro to help develop the secondary user pathways. Putting our ideas together, we developed a high-level version of our app’s Information Architecture. This provided a visual aid for how each screen interacts with one another.
 
-![Information Architecture Image](/Images/InformationMap.png)
+![Information Architecture Image](/images/InformationMap.png)
 
 #### Crazy 8’s
 
 Firstly, we reviewed the competitor user journeys for pre-exercise inspiration. Then, for each step of the golden path, we did a crazy 8’s sketching exercise to get ideas flowing for the layout of each screen.
 
-![Crazy 8's Image](/Images/CrazyEight.png)
+![Crazy 8's Image](/images/CrazyEight.png)
 
 #### Lo-fi Wireframe (sketch)
 
