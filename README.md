@@ -139,6 +139,8 @@ IMAGE
 
 Next, we digitalised the sketched wireframes using Figma. This gave us something more presentable for user testing.
 
+![Lo Fi Wireframe Image](/images/LoFiWireframe.png)
+
 #### User Testing
 
 Now our lo-fi prototype was ready for testing. We carried out 2 separate usability tests simultaneously. We asked a series of guided questions and noted the feedback. Using the feedback gathered, we could continue to develop our project in the following sprint.
