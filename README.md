@@ -219,6 +219,8 @@ With the golden path the priority, changes were applied to these wireframe scree
 
 The design team then applied the UI scheme to the Figma wireframe following the same order: 1. Golden path, 2. Secondary Pathways
 
+![Figma Iterations Image](/images/FigmaIterations.png)
+
 #### Make a working prototype on Figma
 
 Meanwhile, the functionality team worked on making the wireframes an interactive prototype on figma.
