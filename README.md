@@ -203,11 +203,9 @@ And here is the final UI kit.
 
 ## Sprint 2 -
 
-**\_Collaborate as one team, combine work, and produce a hi-fi prototype.**\_
+_**Collaborate as one team, combine work, and produce a hi-fi prototype.**_
 
 **Sprint Goal**: Design a hi-fi working prototype on Figma
-
-### Our Process:
 
 #### Apply feedback-related changes
 
@@ -242,17 +240,13 @@ This helped us understand how the user interacted with the app and gain feedback
 
 ![Usability Test Image](/images/UsabilityTest.png)
 
-**Some key findings include**:
-
-- Less prominent delete account button
-- Accessibility options should be reachable on the landing page
-- Use of language - e.g. Change ‘browse’ to ‘search’ - a more deliberate action
-  *Tweaks to button layout and hierarchy
-  *Interactive map (default & Satellite view icon to be clearer)
-
 #### Apply feedback-related changes
 
-With the project nearing its end, we applied the changes that time permitted. Any remaining changes would be made in possible future iterations.
+With the project nearing its end, we applied feedback based changes that time permitted. Any remaining changes would be made in future iterations.
+
+### Working Figma Prototype 
+
+>click [here](https://www.figma.com/proto/ngjI1rbryGHOL90MvymDnW/Untitled?node-id=1%3A1799&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3035) to experience the working figma prototype.
 
 ## Conclusion
 
@@ -267,9 +261,16 @@ On an individual level, I am pleased with my lead role in the team. My planning,
 ### Lessons learned
 
 Some key lessons I’ve learned are:
-*Design decisions should be based on what the user needs NOT what the designer likes.
-*Teamwork is the key to success - Each team member brings something valuable to the table. Find out what and utilise it.
-\*User testing offers incredibly useful feedback for further iterations.
+* Design decisions should be based on what the user needs rather than what the designer likes.
+* Teamwork is the key to success - Each team member brings something valuable to the table. Find out what and utilise it.
+* User testing offers incredibly useful feedback for further iterations.
+
+### Future Developments
+
+* Carry out more focus groups and market research to further improve usability and accessibility 
+* Apply remaining user feedback gathered in sprint #2
+* additional design sprints to further refine the product
+* Take the app to development
 
 ### Final words
 
