@@ -116,7 +116,6 @@ Using the problems uncovered from research findings, we constructed ‘How Might
 #### Define the golden path
 
 Having already developed user journey maps during the competitor analysis, we used them for inspiration when developing our golden path. Our objective was to design a golden path that enabled the user to enter, search, filter, view and contact the agent in an efficient and user-friendly manner.
-IMAGE
 
 #### Information Architecture
 
