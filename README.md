@@ -240,6 +240,8 @@ With our working prototype ready, we prepared and carried out a Usability Test o
 
 This helped us understand how the user interacted with the app and gain feedback for future iterations.
 
+![Usability Test Image](/images/UsabilityTest.png)
+
 **Some key findings include**:
 
 - Less prominent delete account button
