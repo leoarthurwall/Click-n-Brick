@@ -168,6 +168,8 @@ Using other app and sites as inspiration, we brainstormed possible colour choice
 
 We chose the colour green to base our colour palette around because of its connotations of a fresh start, life, cleanliness and the ecosystem. We used lime green as our accent colour to guide the user from the start to the end of the golden path and grey, green and black/green as our primary and secondary colour blends.
 
+![Color Selection Image](/images/Color.png)
+
 #### Logo Selection
 
 For the logo, we wanted something clean and fresh to attract the attention of the user, whilst also denoting safety and trust.
@@ -186,6 +188,8 @@ We developed our own icon kit from various available online icon packs. We edite
 #### Buttons
 
 We designed a range of buttons with varying functions and hierarchies.
+
+![Logo Font And Icon Image](/images/LogoFontIcon.png)
 
 #### Dark mode
 
