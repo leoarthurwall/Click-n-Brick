@@ -248,6 +248,8 @@ With the project nearing its end, we applied feedback based changes that time pe
 
 >click [here](https://www.figma.com/proto/ngjI1rbryGHOL90MvymDnW/Untitled?node-id=1%3A1799&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3035) to experience the working figma prototype.
 
+![Working Prototype Image](/images/FullPrototype.png)
+
 ## Conclusion
 
 ### Project Outcomes
