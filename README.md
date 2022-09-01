@@ -133,7 +133,6 @@ Firstly, we reviewed the competitor user journeys for pre-exercise inspiration. 
 #### Lo-fi Wireframe (sketch)
 
 Using the Crazy 8 sketches as inspiration, we combined our favourite elements and sketched a more polished wireframe version for each stage of the user journey. As we were doing well for time, we also sketched out the secondary pathway screens.
-IMAGE
 
 #### Lo-fi Wireframe (Digital)
 
